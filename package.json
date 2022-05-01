@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "discord.js-commando": "^0.12.3",
+    "dotenv": "^16.0.0",
+    "mongoose": "^5.13.14"
+  },
+  "name": "thoth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hallowien",
+  "license": "ISC",
+  "description": "thoth tarot bot",
+  "repository": {
+    "type": "git",
+    "url": "thoth-discord-bot"
+  },
+  "keywords": [
+    "discord"
+  ]
+}
